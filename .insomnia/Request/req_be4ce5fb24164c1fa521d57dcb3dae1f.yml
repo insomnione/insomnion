@@ -1,15 +1,27 @@
 _id: req_be4ce5fb24164c1fa521d57dcb3dae1f
 type: Request
 parentId: fld_2ff9751275c6411793ff933c80d2876e
-modified: 1674239489506
+modified: 1674245633403
 created: 1674239435646
 url: "{{base_url}}/{{ _.post_url }}"
 name: Post to httpbin
 description: ""
 method: POST
-body: {}
-parameters: []
-headers: []
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"ciao": "belo",
+    	"a": 3
+    }
+parameters:
+  - id: pair_cbce3052e95548f0ab8b15c53a09d3d8
+    name: filter
+    value: "4"
+    description: ""
+headers:
+  - name: Content-Type
+    value: application/json
 authentication: {}
 metaSortKey: -1674239435646
 isPrivate: false
