@@ -1,0 +1,21 @@
+_id: req_9755c410190343e8a7bf7353ed5bf6f8
+type: Request
+parentId: fld_2ff9751275c6411793ff933c80d2876e
+modified: 1674239516786
+created: 1674239491772
+url: "{{ _.base_url }}/get"
+name: Get httpbin
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1674239491772
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

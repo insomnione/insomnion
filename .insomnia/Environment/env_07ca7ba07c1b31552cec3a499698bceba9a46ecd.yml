@@ -1,0 +1,19 @@
+_id: env_07ca7ba07c1b31552cec3a499698bceba9a46ecd
+type: Environment
+parentId: wrk_70de779f9fb24b81962d041aafd1d68f
+modified: 1674239398009
+created: 1674238285981
+name: Base Environment
+data:
+  post_url: post
+  cose:
+    get: get
+dataPropertyOrder:
+  "&":
+    - post_url
+    - cose
+  "&~|cose":
+    - get
+color: null
+isPrivate: false
+metaSortKey: 1674238285981

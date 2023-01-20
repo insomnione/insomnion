@@ -1,0 +1,14 @@
+_id: env_d1cd8865039b4672a9e43af8dda62f27
+type: Environment
+parentId: env_07ca7ba07c1b31552cec3a499698bceba9a46ecd
+modified: 1674239381508
+created: 1674239333875
+name: Staging
+data:
+  base_url: https://httpbin.org
+dataPropertyOrder:
+  "&":
+    - base_url
+color: null
+isPrivate: false
+metaSortKey: 1674239333875

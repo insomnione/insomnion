@@ -1,0 +1,21 @@
+_id: req_be4ce5fb24164c1fa521d57dcb3dae1f
+type: Request
+parentId: fld_2ff9751275c6411793ff933c80d2876e
+modified: 1674239489506
+created: 1674239435646
+url: "{{base_url}}/{{ _.post_url }}"
+name: Post to httpbin
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1674239435646
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
