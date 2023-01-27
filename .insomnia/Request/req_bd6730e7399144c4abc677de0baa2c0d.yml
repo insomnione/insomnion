@@ -1,0 +1,25 @@
+_id: req_bd6730e7399144c4abc677de0baa2c0d
+type: Request
+parentId: fld_2ff9751275c6411793ff933c80d2876e
+modified: 1674578883892
+created: 1674546415842
+url: http://localhost:4566/casavo/immagine.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=test%2F20230124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230124T164628Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b6d7af9b11aaa4db892e22ab6ca265fe129c75a8490f3b1c1e5421aa3e257f79
+name: New Request
+description: ""
+method: PUT
+body:
+  mimeType: application/octet-stream
+  fileName: /Users/giorgio/code/casavo/minio/file_a_caso.txt
+parameters: []
+headers:
+  - name: Content-Type
+    value: text/plain
+authentication: {}
+metaSortKey: -1674239463709
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
